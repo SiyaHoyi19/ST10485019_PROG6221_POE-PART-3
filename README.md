@@ -91,7 +91,7 @@ Install-Package Newtonsoft.Json
 - Press **F5** or click the green **Run** button in Visual Studio
 - The app launches with a voice greeting, ASCII art header, and prompts you for your name
 
-> 📝 `tasks.json` is created automatically when you add your first task — no setup needed.
+>`tasks.json` is created automatically when you add your first task — no setup needed.
 
 ---
 
@@ -132,14 +132,14 @@ CybersecurityChatbot/
 
 <img width="1920" height="1080" alt="Screenshot 2026-06-26 191226" src="https://github.com/user-attachments/assets/9fc22564-c573-4571-af29-b9757a7d01e2" />
 
-><img width="1920" height="1080" alt="Screenshot 2026-06-26 191717" src="https://github.com/user-attachments/assets/4c04a811-e373-4d20-8bba-065a2f61f46b" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-26 191717" src="https://github.com/user-attachments/assets/4c04a811-e373-4d20-8bba-065a2f61f46b" />
 
 
 ---
 
 ## YouTube Video
 
-> *(Add your unlisted YouTube video link here)*
+>https://youtu.be/IoORHaGbjZQ?si=DRN1K2eKDG8C1x9e 
 
 ---
 
