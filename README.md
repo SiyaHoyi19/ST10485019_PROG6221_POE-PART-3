@@ -132,7 +132,8 @@ CybersecurityChatbot/
 
 <img width="1920" height="1080" alt="Screenshot 2026-06-26 191226" src="https://github.com/user-attachments/assets/9fc22564-c573-4571-af29-b9757a7d01e2" />
 
-> *(Add a screenshot of the GitHub Actions green tick here)*
+><img width="1920" height="1080" alt="Screenshot 2026-06-26 191717" src="https://github.com/user-attachments/assets/4c04a811-e373-4d20-8bba-065a2f61f46b" />
+
 
 ---
 
