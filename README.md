@@ -84,7 +84,7 @@ Install-Package Newtonsoft.Json
 - In Solution Explorer, right-click `greeting.wav` → **Properties**
 - Set **Copy to Output Directory** to **Copy if newer**
 
-> ⚠️ Without `greeting.wav`, the app still runs — the voice greeting will simply be skipped silently.
+>  Without `greeting.wav`, the app still runs — the voice greeting will simply be skipped silently.
 
 ### 5. Run the Project
 
@@ -95,7 +95,7 @@ Install-Package Newtonsoft.Json
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 CybersecurityChatbot/
@@ -118,7 +118,7 @@ CybersecurityChatbot/
 
 ---
 
-## 🔢 GitHub Releases
+##  GitHub Releases
 
 | Tag | Description |
 |-----|-------------|
@@ -128,7 +128,7 @@ CybersecurityChatbot/
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 <img width="1920" height="1080" alt="Screenshot 2026-06-26 191226" src="https://github.com/user-attachments/assets/9fc22564-c573-4571-af29-b9757a7d01e2" />
 
@@ -136,9 +136,15 @@ CybersecurityChatbot/
 
 ---
 
-## 🎥 YouTube Video
+## YouTube Video
 
 > *(Add your unlisted YouTube video link here)*
+
+---
+
+## Github Link
+
+> *https://github.com/SiyaHoyi19/ST10485019_PROG6221_POE-PART-3
 
 ---
 
